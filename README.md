@@ -1,4 +1,4 @@
-# Hotel Reservation System 🏨
+# Hotel Reservation System 
 
 A Spring Boot-based REST API for managing hotel bookings.
 
